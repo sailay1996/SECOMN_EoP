@@ -5,7 +5,7 @@ Sound Research SECOMN service Privilege Escalation (windows 10)
  https://www.catalog.update.microsoft.com/Search.aspx?q=windows+10+sound+driver `
  
 +++ 
- `Not for all windows. Aboe Service need to be exist to exploit this bug`
+ `Not for all windows. Above Service need to be exist to exploit this bug`
 +++
 
 
