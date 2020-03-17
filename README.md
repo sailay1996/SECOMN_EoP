@@ -1,9 +1,12 @@
 # SECOMN_EoP
 Sound Research SECOMN service Privilege Escalation (windows 10) 
 
-`It's not windows buildin service. Just one of windows sound driver service.
-https://www.catalog.update.microsoft.com/Search.aspx?q=windows+10+sound+driver `
-
+`It's not windows buildin service. Just one of windows sound driver service. But some of the pc have that service since driver installed.
+ https://www.catalog.update.microsoft.com/Search.aspx?q=windows+10+sound+driver `
+ 
++++ 
+ `Not for all windows. Aboe Service need to be exist to exploit this bug`
++++
 
 
 ##### Modify command which included in exec.bat that as you want to run with High Privileged SYSTEM access. 
